@@ -80,3 +80,6 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
+
+# AI appended note: prompt => make changes in frontend and make it cool and change theme color
